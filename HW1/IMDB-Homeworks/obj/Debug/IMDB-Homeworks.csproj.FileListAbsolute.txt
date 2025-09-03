@@ -1,0 +1,7 @@
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\bin\Debug\IMDB-Homeworks.exe.config
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\bin\Debug\IMDB-Homeworks.exe
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\bin\Debug\IMDB-Homeworks.pdb
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\obj\Debug\IMDB-Homeworks.csproj.AssemblyReference.cache
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\obj\Debug\IMDB-Homeworks.csproj.CoreCompileInputs.cache
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\obj\Debug\IMDB-Homeworks.exe
+C:\Users\junju\source\repos\IMDB-Homeworks\IMDB-Homeworks\obj\Debug\IMDB-Homeworks.pdb
