@@ -1,0 +1,7 @@
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\bin\Debug\CS_HW2.exe.config
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\bin\Debug\CS_HW2.exe
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\bin\Debug\CS_HW2.pdb
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\obj\Debug\CS_HW2.csproj.AssemblyReference.cache
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\obj\Debug\CS_HW2.csproj.CoreCompileInputs.cache
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\obj\Debug\CS_HW2.exe
+C:\Users\junju\source\repos\CS_HW2\CS_HW2\obj\Debug\CS_HW2.pdb
