@@ -27,7 +27,7 @@ namespace CS_HW2
                 Console.WriteLine($"Row: {i + 1}");
                 for (int j = 0; j < column; j++)
                 {
-                    Console.Write($"Enter a String for Column {j + 1}: ");
+                    Console.Write($"Enter a number for Column {j + 1}: ");
                     input = Convert.ToDouble(Console.ReadLine());
                     columnlist.Add(input);
                     sum += input;
