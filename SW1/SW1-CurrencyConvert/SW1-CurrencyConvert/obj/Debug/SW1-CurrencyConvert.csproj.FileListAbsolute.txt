@@ -1,0 +1,6 @@
+C:\Users\junju\source\repos\SW1-CurrencyConvert\SW1-CurrencyConvert\bin\Debug\SW1-CurrencyConvert.exe.config
+C:\Users\junju\source\repos\SW1-CurrencyConvert\SW1-CurrencyConvert\bin\Debug\SW1-CurrencyConvert.exe
+C:\Users\junju\source\repos\SW1-CurrencyConvert\SW1-CurrencyConvert\bin\Debug\SW1-CurrencyConvert.pdb
+C:\Users\junju\source\repos\SW1-CurrencyConvert\SW1-CurrencyConvert\obj\Debug\SW1-CurrencyConvert.csproj.CoreCompileInputs.cache
+C:\Users\junju\source\repos\SW1-CurrencyConvert\SW1-CurrencyConvert\obj\Debug\SW1-CurrencyConvert.exe
+C:\Users\junju\source\repos\SW1-CurrencyConvert\SW1-CurrencyConvert\obj\Debug\SW1-CurrencyConvert.pdb
