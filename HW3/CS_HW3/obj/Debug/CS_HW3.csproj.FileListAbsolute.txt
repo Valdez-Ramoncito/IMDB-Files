@@ -1,0 +1,7 @@
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\bin\Debug\CS_HW3.exe.config
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\bin\Debug\CS_HW3.exe
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\bin\Debug\CS_HW3.pdb
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\obj\Debug\CS_HW3.csproj.AssemblyReference.cache
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\obj\Debug\CS_HW3.csproj.CoreCompileInputs.cache
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\obj\Debug\CS_HW3.exe
+C:\Users\junju\source\repos\CS_HW3\CS_HW3\obj\Debug\CS_HW3.pdb
